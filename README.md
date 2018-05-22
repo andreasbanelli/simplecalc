@@ -1,5 +1,7 @@
 Simple calculatrice
 
+le lien rawgit : https://cdn.rawgit.com/andreasbanelli/simplecalc/1c89c59a/index.html 
+
 Je n'ai pas eu le temps de faire la calculatrice avec différent fichier css, js.. 
 En fait quand je mettais le js dans un fichier séparé, impossible de la faire fonctionner. 
 
